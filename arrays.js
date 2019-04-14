@@ -1,4 +1,4 @@
-var addElementToBeginningOfArray = ["running", "football", "hockey", "swimmming"];
+var addElementToBeginningOfArray = ["running", "football"];
 
-var destructivelyAddElementToBeginningOfArray = ["websites", "mobile apps", "frontend", "backend"];
+var destructivelyAddElementToBeginningOfArray = ["websites", "mobile apps"];
 
