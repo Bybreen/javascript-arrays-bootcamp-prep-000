@@ -9,5 +9,5 @@ var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
 var exercise = ["addElementToBeginningOfArray","running", "football", "hockey", "swimmming"];
 
-var coding = [" "]
+var coding = ["destructivelyAddElementToBeginningOfArray", "websites", "mobile apps", "frontend", "backend"];
 
