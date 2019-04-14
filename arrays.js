@@ -7,4 +7,5 @@ var ingredient6 = "garlic"
 
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
-var exercise 
+var exercise = ["running", "football", "hockey", "swimmming"];
+
